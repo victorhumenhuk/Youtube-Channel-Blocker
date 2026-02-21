@@ -1,0 +1,33 @@
+Privacy Policy
+Last updated: February 2026
+
+This Privacy Policy explains how the YouTube Channel Blocker browser extension ("the Extension") handles your data. The Extension is developed and maintained by Victor Humenhuk.
+
+What Data the Extension Collects
+The Extension stores a list of YouTube channel identifiers that you choose to block. This list is saved locally on your device using the browser's built-in chrome.storage.local API. Each entry contains a channel identifier derived from the channel's URL and the time you blocked it.
+
+How Your Data is Used
+The stored list of blocked channels is used solely to hide videos and content from those channels while you browse YouTube. The data is never used for any other purpose.
+
+Data Sharing and Transmission
+The Extension does not transmit any data to any server, third party, or external service. All data remains on your device at all times. The developer has no access to your blocked channels list or any other information about your usage.
+
+Third-Party Services
+The Extension does not use any analytics, advertising, tracking, or third-party services of any kind.
+
+Data Storage and Retention
+Your blocked channels list is stored locally on your device for as long as the Extension is installed. You can remove all stored data at any time by uninstalling the Extension or by clearing the Extension's storage through your browser settings.
+
+Permissions Used
+storage – to save your blocked channels list locally on your device.
+tabs – to identify the currently active YouTube tab so the popup can communicate with it.
+activeTab – to interact with the YouTube page you are currently viewing.
+Host access to youtube.com – to detect the current channel and hide blocked content across YouTube pages.
+Children's Privacy
+The Extension does not knowingly collect any data from anyone, including children under the age of 13.
+
+Changes to This Policy
+If this policy is updated, the revised version will be published at this URL with an updated date at the top.
+
+Contact
+If you have any questions about this privacy policy, you can reach out via the Chrome Web Store support contact for this Extension.
